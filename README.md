@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Simples aplicação de controle de despesas feita com javascript e tailwind. Com ajuda do tailwind, foi feita uma interface responsiva e moderna. Todo o histórico de transações é armazenado no localStorage para ficar guardado mesmo após o fechamento do site.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://gustavo-sales.github.io/Control-expenses--javascript-tailwind/)
 
 ## 📝 Licença
 
